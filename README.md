@@ -13,6 +13,7 @@
 <br/>
 
 <p align="center">
+  <a href="https://github.com/MManoj-08/VITAL-Vision-Triage-Analytics-/actions"><img src="https://github.com/MManoj-08/VITAL-Vision-Triage-Analytics-/actions/workflows/ci.yml/badge.svg" alt="CI Status"/></a>
   <img src="https://img.shields.io/badge/Next.js-Frontend-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-API%20Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-Neon%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -196,6 +197,12 @@ npm install
 npm run dev
 ```
 *SaaS Dashboard launches on `http://localhost:3000`*
+
+### 3. Automated Testing
+```bash
+# Run backend test suite (rPPG DSP engine & Flask API routes)
+pytest
+```
 
 ---
 
