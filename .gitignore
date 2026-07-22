@@ -1,0 +1,28 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore Node.js & Next.js builds
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Ignore Python cache and logs
+**/__pycache__/
+*.pyc
+*.log
+app_test.log
+app.log
+
+# Ignore user uploads (large video files)
+**/uploads/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env*.local
