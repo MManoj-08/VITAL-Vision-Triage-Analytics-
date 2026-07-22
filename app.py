@@ -11,7 +11,7 @@ from web import app
 
 if __name__ == '__main__':
     print("=" * 60)
-    print("VITAL - Opti-Screen SaaS API Server")
+    print("VITAL - Vision-Based Intelligent Triage API Server")
     print("=" * 60)
     
     print("  Frontend (Next.js): http://localhost:3000")
