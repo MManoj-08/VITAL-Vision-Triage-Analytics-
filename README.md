@@ -162,8 +162,8 @@ Make sure you have Python 3.9+ and Node.js v18+ installed.
 ### 1. Backend Server Setup
 ```bash
 # Clone the repository
-git clone https://github.com/User-s22/Opti-Screen.git
-cd Opti-Screen
+git clone https://github.com/MManoj-08/VITAL-Vision-Triage-Analytics-.git
+cd VITAL-Vision-Triage-Analytics-
 
 # Setup virtual environment
 python -m venv venv
