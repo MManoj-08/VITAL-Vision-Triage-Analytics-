@@ -26,3 +26,8 @@ Thumbs.db
 # Environment variables
 .env
 .env*.local
+
+# Local interview notes
+INTERVIEW_PREP_GUIDE.md
+INTERVIEW_PREP_GUIDE.html
+
